@@ -36,24 +36,7 @@
     <div class="col-12">
         <table class="table" style="width: 50%; margin: 0 auto">
             <tbody style="text-align: center">
-                <tr>
-                    <td>FilmeX</td>
-                </tr>
-                <tr>
-                    <td>FilmeX</td>
-                </tr>
-                <tr>
-                    <td>FilmeX</td>
-                </tr>
-                <tr>
-                    <td>FilmeX</td>
-                </tr>
-                <tr>
-                    <td>FilmeX</td>
-                </tr>
-                <tr>
-                    <td>FilmeX</td>
-                </tr>
+                
             </tbody>
         </table>
     </div>
